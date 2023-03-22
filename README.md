@@ -28,6 +28,7 @@ Formulate the hypothesis as a data science problem and lay out the major steps n
 There multiple ways to approach the task and that the model answer is just one way to do it.
 
 */-Remember what the key factors are for a customer deciding to stay with or switch providers
+
 */-Think of data sources and fields that could be used to explore the contribution of various factors to a customer’s possible action 
 */-Ideally, what would a data frame of your choice look like – what should each column and row represent? 
 */-What kind of exploratory analyses on the relevant fields can give more insights about the customer's churn behavior? 
