@@ -1,5 +1,5 @@
 # BCG_Customer_PowerCo
-# Virtual Internship Program with BCG Boston Consultation Group
+## Virtual Internship Program with BCG Boston Consultation Group
 ![bcg](https://user-images.githubusercontent.com/108150096/226910129-0a561e30-d093-4a75-b905-28522963ed07.png)
 
 
@@ -26,18 +26,18 @@ The client plans to use the predictive model on the 1st working day of every mon
 Formulate the hypothesis as a data science problem and lay out the major steps needed to test this hypothesis. Communicate my thoughts and findings in an email to my AD, focusing on the data that I would need from the client and the analytical models that I would use to test such a hypothesis.
 
 There multiple ways to approach the task and that the model answer is just one way to do it.
-1.Remember what the key factors are for a customer deciding to stay with or switch providers
-2.Think of data sources and fields that could be used to explore the contribution of various factors to a customer’s possible action 
-3.Ideally, what would a data frame of your choice look like – what should each column and row represent? 
-4.What kind of exploratory analyses on the relevant fields can give more insights about the customer's churn behavior? 
+* Remember what the key factors are for a customer deciding to stay with or switch providers
+* Think of data sources and fields that could be used to explore the contribution of various factors to a customer’s possible action 
+* Ideally, what would a data frame of your choice look like – what should each column and row represent? 
+* What kind of exploratory analyses on the relevant fields can give more insights about the customer's churn behavior? 
 
 ### Task 2: Perform some exploratory data analysis with the given datasets.
 The BCG project team thinks that building a churn model to understand whether price sensitivity is the largest driver of churn has potential. The client has sent over some data and the AD wants me to perform some exploratory data analysis.
 
 The data that was sent over includes:
-1.Historical customer data: Customer data such as usage, sign up date, forecasted usage etc
-2.Historical pricing data: variable and fixed pricing data etc
-3.Churn indicator: whether each customer has churned or not
+* Historical customer data: Customer data such as usage, sign up date, forecasted usage etc
+* Historical pricing data: variable and fixed pricing data etc
+* Churn indicator: whether each customer has churned or not
 
 #### Sub-Task 1:
 Perform some exploratory data analysis. Look into the data types, data statistics, specific parameters, and variable distributions. This first subtask is to gain a holistic understanding of the dataset. 
